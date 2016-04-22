@@ -1,0 +1,8 @@
+---
+default:
+  name: supervisersync
+  release: '1'
+  summary: Makes rsync a supervised daemon
+  version: '1.0.1'
+  arch: noarch
+
